@@ -1,5 +1,5 @@
-# EcoTrust---Environmental-Intelligence-Platform
-# 🌿 EcoTrust – Green Stack
+
+# 🌿 EcoTrust – Environmental Intelligence Platform
 ### Trustworthy Industrial Pollution Monitoring Platform
 
 <p align="center">
