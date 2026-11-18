@@ -1,2 +1,2 @@
 # EcoTrust---Environmental-Intelligence-Platform
-Industrial Pollution Monitoring Platform | Real-Time Analytics, Anomaly Detection &amp; Data Trust Scoring
+Real-time environmental monitoring, CEMS telemetry verification, AI-powered validation, and compliance intelligence for industrial facilities.
